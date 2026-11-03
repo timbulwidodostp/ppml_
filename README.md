@@ -1,6 +1,8 @@
 # ppml_
 Poisson pseudo maximum likelihood (PPML) estimation Use ppml With STATA 19
 
+https://www.youtube.com/watch?v=i6dSws7qYec
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
